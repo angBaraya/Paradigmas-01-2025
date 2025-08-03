@@ -1,0 +1,1 @@
+# Paradigmas-01-2025
