@@ -1,0 +1,62 @@
+
+RF1 - TDAs: 1
+
+RF2 - jugador: 1
+
+RF3 - propiedad: 1
+
+RF4 - carta: 1
+
+RF5 - tablero: 1
+
+RF6 - juego: 1
+
+RF7 - tableroAgregarPropiedades: 0.75
+
+RF8 - juegoAgregarJugador: 1
+
+RF9 - juegoObtenerJugadorActual: 1
+
+RF10 - juegoLanzarDados: 1
+
+RF11 - juegoMoverJugador: 1
+
+RF12 - jugadorComprarPropiedad: 1
+ 
+RF13 - juegoCalcularRentaPropiedad: 1
+
+RF14 - JuegoCalcularRentaJugador: 1
+
+RF15 - JuegoConstruirCasa: 1
+
+RF16 - juegoConstruirHotel: 1
+
+RF17 - jugadorPagarRenta: 1
+
+RF18 - propiedadHipotecar: 1
+
+RF19 - juegoExtraerCarta: 0
+
+RF20 - jugadorEstaEnBancarrota: 1
+
+RF21 - juegoJugarTurno: 0
+
+________________________________________
+
+RNF1 - Autoevaluación: 1 
+
+RNF2 - Lenguaje: 1
+
+RNF3 - Versión: 1
+
+RNF4 - Standard: 1
+
+RNF5 - Documentación: 1
+
+RNF6 - Organización: 1
+
+RNF9 - Historial: 0.75
+
+RNF7 - Script de pruebas: 0.75
+
+RNF8 - Prerrequisitos: 1

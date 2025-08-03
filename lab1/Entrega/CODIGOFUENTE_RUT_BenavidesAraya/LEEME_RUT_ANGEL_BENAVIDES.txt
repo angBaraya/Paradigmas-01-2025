@@ -1,0 +1,11 @@
+# paradigmasLAB1
+
+PARA EJECUTAR CÓDIGO:
+
+Se debe ejecutar el archivo 'script_base_RUT_ANGEL_BENAVIDES_ARAYA.rkt'
+en donde se ejemplifica el uso de los RF implementados.
+
+El archivo 'IGNORARscriptMalo.rkt' no es relevante para la implementación lograda y no se
+asegura que funcione correctamente, lo dejo para dejar constancia del intento de implementación y uso de RF21.
+
+

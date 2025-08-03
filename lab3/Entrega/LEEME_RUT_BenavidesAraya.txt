@@ -1,0 +1,26 @@
+# Lab3_RUT_AngelBenavidesAraya
+
+Nota: todo lo mencionado en este README estará mencionado en el informe también, pero lo considero importante, asi que lo dejo acá.
+
+Con respecto a la documentación:
+En la carpeta CODIGOFUENTE.../doc/org/benavidesangel/lab3 se encuentran los html con la documentación en JavaDoc
+
+Lo que faltó para una entrega completa:
+- RF25 funciona a medias, ya que se ejecuta la función pero falta bastante lógica para que simule una partida de verdad.
+- Por temas de tiempo no se realizo el UML final (era parte de los RNF, pero no aparecia como obligatorio).
+
+Copio directamente del informe el instructivo dejado ahí:
+
+Para ejecutar el código, todos los archivos deben mantenerse dentro del mismo directorio, ya que forman parte de un mismo paquete. En particular, la clase Main requiere acceso a funciones y clases definidas en los demás archivos, debido a la existencia de relaciones de herencia, clases abstractas y composición entre objetos.
+El programa puede ejecutarse de dos formas. La primera, y más directa durante el desarrollo, es a través del software IntelliJ IDEA. Para ello, se debe abrir el proyecto como una carpeta Gradle, navegar hasta el archivo Main.java , ubicado en ‘CodigoLab3/src/main/java/org/benavidesangel/lab3/Main’, y ejecutar con la flecha verde ubicada en la esquina superior. Esta opción es independiente del sistema operativo utilizado.
+
+La segunda forma, y la solicitada en el enunciado, es mediante el uso de Gradle desde consola. Para ello, se debe abrir una terminal en el directorio raíz del proyecto y ejecutar los siguientes comandos:
+‘./gradlew build’ para compilar el proyecto en sistemas Linux, o ‘gradlew.bat build’ en Windows
+
+
+’./gradlew run’ para ejecutar el programa en Linux, o ’gradlew.bat run’ en Windows.
+
+No estoy seguro de si debía borrar las compilaciones de pruebas realizadas por mi para que se pueda compilar en otra maquina, por las dudas no las borre.
+
+Al ejecutar el programa, aparecerá un menú interactivo en la consola con opciones para iniciar el juego o probar los distintos requerimientos funcionales de forma individual.
+ Cabe destacar que ambas formas de ejecución (por IntelliJ y por consola usando Gradle) fueron probadas exitosamente en un equipo con Linux Mint.

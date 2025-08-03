@@ -1,0 +1,64 @@
+
+RF1 - Clases y estructuras que forman el programa:  1
+
+RF2 - Menú interactivo por terminal: 1
+
+RF3 - TDA Jugador | Constructor : 1
+
+RF4 - TDA Propiedad | Constructor : 1
+
+RF5 - TDA Hotel |Constructor : 1
+
+RF6 - TDA Carta  | Constructor : 1
+
+RF7 - TDA CartaComunidad | Constructor: 1
+
+RF8 - TDA CartaSuerte | Constructor : 1
+
+RF9 - TDA Tablero | Constructor: 1
+
+RF10 - TDA Juego | Constructor: 1
+
+RF10b - TDA Juego | Imprimir: 1
+
+RF11 - Cargar datos iniciales: 1
+ 
+RF12 - Agregar Propiedad: 1
+
+RF13 - Agregar Jugador: 1
+
+RF14 - Obtener Jugador Actual: 1
+ 
+RF15 - Lanzar dados: 1
+
+RF16 - Mover Jugador:  1
+
+RF17 - Comprar Propiedad: 1
+
+RF18 - Calcular Renta Propiedad:1
+
+RF19 - Calcular Renta Jugador: 1
+
+//Acá había algo raro con el construirCasa
+
+RF20 - Construir Hotel:  1
+
+RF21 - Pagar renta: 1
+
+RF22 - Hipotecar Propiedad: 1
+
+RF23 - Extraer Carta: 1
+
+RF24 - Verificar bancarrota: 1
+
+RF25 - Jugar Turno: 0.5
+
+OPCIONALES:
+
+RF26 - Integración con IA: 0 
+
+RF27 - Exportar partida actual a archivo: 0
+
+RF28 - Importar partida desde archivo: 0
+
+

@@ -1,0 +1,52 @@
+# paradigmasLAB2
+
+PARA EJECUTAR CÓDIGO:
+
+Este instructivo está pensado para ser utilizado en sistemas Linux (en concreto Linux Mint 22.1)
+con SWI-Prolog versión 9.2.9. En otros sistemas operativos como Windows, se puede usar el programa SWI-Prolog,
+cargando manualmente los archivos y ejecutando las mismas consultas, aunque no se ha verificado en detalle.
+
+INSTRUCCIONES DE EJECUCIÓN:
+
+    Abrir la terminal y navegar al directorio del proyecto usando el comando:
+    cd /ruta/del/proyecto
+
+    Ejecutar el intérprete de Prolog escribiendo:
+    swipl
+
+    Una vez dentro del intérprete de Prolog, cargar el archivo principal con el siguiente comando:
+    ?- [script_base_RUT_ANGEL_BENAVIDES_ARAYA].
+
+    Si el archivo se carga correctamente, aparecerá el mensaje “true.”.
+    Es normal que aparezcan varios warnings, pueden ser ignorados.
+
+    Para ejecutar la primera tanda de pruebas (RF2 hasta RF13), usar el siguiente comando:
+    ?- rf2to13.
+
+    Este comando ejecutará ejemplos con explicaciones para los Requisitos Funcionales desde RF2 hasta RF13.
+
+    Para ejecutar el resto de los ejemplos de manera individual, usar las siguientes consultas:
+
+    ?- rf14a. % Ejemplo 1 de RF14: juegoCalcularRentaJugador
+    ?- rf14b. % Ejemplo 2 de RF14: juegoCalcularRentaJugador
+
+    ?- rf15a. % Ejemplo de RF15: juegoConstruirCasa
+    ?- rf15b. % Ejemplo de RF15: juegoConstruirCasa
+
+    ?- rf16a. % Ejemplo 1 de RF16: juegoConstruirHotel
+    ?- rf16b. % Ejemplo 2 de RF16: juegoConstruirHotel
+
+    ?- rf17a. % Ejemplo 1 de RF17: jugadorPagarRenta
+    ?- rf17b. % Ejemplo 2 de RF17: jugadorPagarRenta
+
+    ?- rf18a. % Ejemplo 1 de RF18: jugadorHipotecarPropiedad
+    ?- rf18b. % Ejemplo 2 de RF18: jugadorHipotecarPropiedad
+
+    ?- rf20a. % Ejemplo 1 de RF20: jugadorEstaEnBancarrota
+    ?- rf20b. % Ejemplo 2 de RF20: jugadorEstaEnBancarrota
+
+NOTAS:
+
+    Los RF19 y RF21 no están implementados, por lo que no tienen ejemplos de prueba.
+
+    El archivo script_base importa los módulos necesarios desde main.pl y los TDA.
