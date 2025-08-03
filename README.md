@@ -8,18 +8,18 @@ Repositorio con las entregas de los 3 laboratorios de la asignatura. El proyecto
 Implementación usando programación funcional.
 - `Enunciado.pdf` - Instrucciones del laboratorio
 - `Entrega/` - Código en Scheme tal como se entregó
-- `Nota.txt` - Retroalimentación recibida
+- `Nota.xlsx` - Retroalimentación recibida
 
 ### Lab 2 - Prolog  
 Implementación usando programación lógica.
 - `Enunciado.pdf` - Instrucciones del laboratorio
 - `Entrega/` - Código en Prolog tal como se entregó
-- `Nota.txt` - Retroalimentación recibida
+- `Nota.xlsx` - Retroalimentación recibida
 
 ### Lab 3 - Java
 Implementación usando programación orientada a objetos.
 - `Enunciado.pdf` - Instrucciones del laboratorio
 - `Entrega/` - Código en Java tal como se entregó  
-- `Nota.txt` - Retroalimentación recibida
+- `Nota.xlsx` - Retroalimentación recibida
 
 Cada carpeta contiene la entrega original sin modificaciones posteriores.
